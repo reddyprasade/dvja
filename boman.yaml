@@ -6,7 +6,7 @@ SCA:
   language: "java" 
 
 SAST:
-  language: "java" 
+  language: "semgrep" 
 
 DAST:
   type: "WEB" ## API, WEB, WEB-ADV
